@@ -1,0 +1,27 @@
+1.	Write a SQL Query to pull all customers
+
+Select * from Customers
+
+2.	Write a SQL Query to pull all customers that have orders (no duplicates)
+
+Select * from Customers  C  inner join  Orders  O on C.ID=O. CUSTOMER_ID   group By(C.ID)
+
+3.	Write a SQL Query to pull all customers that do not have orders
+
+Select * from Customers  C  left join Orders  O on C.ID=O. CUSTOMER_ID   where O.ID IS NULL
+
+
+4.	If you had to create an index on these tables, which fields would you most likely index and why?
+
+I would create clustered index on ID tables in Customers and also on the ID table in the Orders.
+As both the columns are primary keys.I will also create a nonclustured index on Customer_ID column in Orders as it’s a foreign key and it helps to speed the querys
+
+
+5.	Write a query that lists each customer name, email, and the number of order they have
+
+ Select C.NAME,C.EMAIL,COUNT(O. CUSTOMER_ID ) AS TotalOrders from Customers  C inner join Orders  O on C.ID=O. CUSTOMER_ID   group By(O. CUSTOMER_ID)
+
+
+6.	Write a query that pulls all customers that have between 2 and 5 orders
+  Select C.NAME,C.EMAIL,COUNT(O. CUSTOMER_ID ) AS TotalOrders from Customers C inner join Orders O on C.ID=O. CUSTOMER_ID   group By(O. CUSTOMER_ID) WHERE  COUNT(O. CUSTOMER_ID ) BETWEEN 2 AND 5
+

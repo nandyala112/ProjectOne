@@ -1,0 +1,14 @@
+c:\Users\anandala\Documents\Visual Studio 2013\Projects\ConsoleApplication1\ClassLibrary1\obj\Debug\TraingleTypeCalculator.csprojResolveAssemblyReference.cache
+c:\Users\anandala\Documents\Visual Studio 2013\Projects\ConsoleApplication1\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+c:\Users\anandala\Documents\Visual Studio 2013\Projects\ConsoleApplication1\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+c:\Users\anandala\Documents\Visual Studio 2013\Projects\ConsoleApplication1\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+c:\Users\anandala\Documents\Visual Studio 2013\Projects\ConsoleApplication1\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+c:\Users\anandala\Documents\Visual Studio 2013\Projects\ConsoleApplication1\ClassLibrary1\bin\Debug\nunit.framework.dll
+c:\Users\anandala\Documents\Visual Studio 2013\Projects\ConsoleApplication1\ClassLibrary1\bin\Debug\nunit.framework.xml
+C:\Users\anandala\Documents\ConsoleApplication1\TriangleCalculator\bin\Debug\ClassLibrary1.dll
+C:\Users\anandala\Documents\ConsoleApplication1\TriangleCalculator\bin\Debug\ClassLibrary1.pdb
+C:\Users\anandala\Documents\ConsoleApplication1\TriangleCalculator\bin\Debug\nunit.framework.dll
+C:\Users\anandala\Documents\ConsoleApplication1\TriangleCalculator\bin\Debug\nunit.framework.xml
+C:\Users\anandala\Documents\ConsoleApplication1\TriangleCalculator\obj\Debug\TraingleTypeCalculator.csprojResolveAssemblyReference.cache
+C:\Users\anandala\Documents\ConsoleApplication1\TriangleCalculator\obj\Debug\ClassLibrary1.dll
+C:\Users\anandala\Documents\ConsoleApplication1\TriangleCalculator\obj\Debug\ClassLibrary1.pdb

@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace ConsoleApplication2
-{
+{//comment
     public class ListNode<T>
     {
         private ListNode<T> next;
